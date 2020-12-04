@@ -1,0 +1,11 @@
+1. Variables válidas:
+suma1
+Suma
+suma_2
+3suma
+resta
+
+2. Decimales: 89.5 , 5.52 , 0.68, 1.05
+3. Operadores Aritméticos:  +   -   *   //    %    /    ^
+4. Operadores relacionales: =   >   <   !=    ==
+5. Palabras reservadas: False  True  as  try
